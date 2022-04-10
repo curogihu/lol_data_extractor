@@ -1,2 +1,2 @@
 # lol_data_extractor
-It extract various data from LoL replays and game screens
+It extracts various data from LoL replays and game screens
