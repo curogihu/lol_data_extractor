@@ -40,4 +40,9 @@ def save_frames(video_path: str, frame_dir: str,
             break
 
 if __name__ == '__main__':
-    save_frames("../../videos/12-6_JP1-349679625_01.webm", "../../images/elapsed_game_time")
+    # aram
+    # save_frames("../../videos/12-6_JP1-349679625_01.webm", "../../images/elapsed_game_time")
+    # save_frames("../../videos/12-6_JP1-349306547_01.webm", "../../images/base_summoners_lift")
+    save_frames("../../videos/11-14_JP1-316783041_01.webm", "../../images/base_summoners_lift")
+
+    
